@@ -13,12 +13,12 @@ in threat intelligence, digital forensics, and vulnerability analysis.
 `Python` `Wireshark` `Kali Linux` `Linux` `Nmap` `Digital Forensics`
 `Threat Intelligence` `SIEM` `Cryptography` `MITRE ATT&CK` `OWASP`
 
-## Projects
+ Projects
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [AI Threat Intel Dashboard](https://github.com/AmarjeetkaurDhillon/threat-intel-dashboard) | Live CVE feeds + OTX threat indicators + PDF briefings | Python, Flask |
 | [Vulnerability Scanner](https://github.com/AmarjeetkaurDhillon/vuln-scanner) | Nmap scanning + CVE mapping + PDF pentest reports | Python, Nmap, Flask |
-| Phishing Detector | ML classifier + header analysis + OSINT | Python, scikit-learn |
+| [Phishing Detector](https://github.com/AmarjeetkaurDhillon/phishing-detector) | SPF/DKIM/DMARC checking + VirusTotal URL scanning | Python, Flask |
 | Honeypot Visualiser | Real attacker data on a live world map | Python, Cowrie |
 | Zero Trust Simulator | Policy engine + breach blast radius tool | Python, Flask |
 
