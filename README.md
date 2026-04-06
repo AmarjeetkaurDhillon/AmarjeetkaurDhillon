@@ -19,7 +19,7 @@ in threat intelligence, digital forensics, and vulnerability analysis.
 | [AI Threat Intel Dashboard](https://github.com/AmarjeetkaurDhillon/threat-intel-dashboard) | Live CVE feeds + OTX threat indicators + PDF briefings | Python, Flask |
 | [Vulnerability Scanner](https://github.com/AmarjeetkaurDhillon/vuln-scanner) | Nmap scanning + CVE mapping + PDF pentest reports | Python, Nmap, Flask |
 | [Phishing Detector](https://github.com/AmarjeetkaurDhillon/phishing-detector) | SPF/DKIM/DMARC checking + VirusTotal URL scanning | Python, Flask |
-| Honeypot Visualiser | Real attacker data on a live world map | Python, Cowrie |
+| [Honeypot Visualiser](https://github.com/AmarjeetkaurDhillon/honeypot-visualiser) | Live Cowrie honeypot on Oracle Cloud + real attack data visualisation | Python, Flask, Cowrie |
 | Zero Trust Simulator | Policy engine + breach blast radius tool | Python, Flask |
 
  Certifications
