@@ -20,7 +20,7 @@ in threat intelligence, digital forensics, and vulnerability analysis.
 | [Vulnerability Scanner](https://github.com/AmarjeetkaurDhillon/vuln-scanner) | Nmap scanning + CVE mapping + PDF pentest reports | Python, Nmap, Flask |
 | [Phishing Detector](https://github.com/AmarjeetkaurDhillon/phishing-detector) | SPF/DKIM/DMARC checking + VirusTotal URL scanning | Python, Flask |
 | [Honeypot Visualiser](https://github.com/AmarjeetkaurDhillon/honeypot-visualiser) | Live Cowrie honeypot on Oracle Cloud + real attack data visualisation | Python, Flask, Cowrie |
-| Zero Trust Simulator | Policy engine + breach blast radius tool | Python, Flask |
+| [Zero Trust Simulator](https://github.com/AmarjeetkaurDhillon/zero-trust-simulator) | Zero Trust policy engine + risk scoring + breach blast radius | Python, Flask |
 
  Certifications
 - Palo Alto Networks Cybersecurity Foundation
