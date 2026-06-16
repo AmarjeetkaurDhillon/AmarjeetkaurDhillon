@@ -31,7 +31,43 @@ MSc Cyber Security graduate from the University of Southampton with hands-on exp
 
 ## Skills
 
-Python · boto3 · Flask · AWS · MITRE ATT&CK · STRIDE · OWASP · SIEM · IAM · Threat Modelling · Digital Forensics · Cryptography · NFC Security · Side-Channel Analysis · RF Security · Wireshark · Kali Linux · Nmap
+**Cloud Security**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![boto3](https://img.shields.io/badge/boto3-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![IAM](https://img.shields.io/badge/IAM-Security-orange?style=flat&logo=amazon-aws)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-Monitoring-orange?style=flat&logo=amazon-aws)
+![GuardDuty](https://img.shields.io/badge/GuardDuty-Threat%20Detection-orange?style=flat&logo=amazon-aws)
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Security Tools**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-informational?style=flat&logo=linux&logoColor=white&color=4CAF50)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-red?style=flat)
+
+**Hardware Security**
+
+![Proxmark3](https://img.shields.io/badge/Proxmark3-NFC%20Research-blueviolet?style=flat)
+![ChipWhisperer](https://img.shields.io/badge/ChipWhisperer-Side%20Channel-blueviolet?style=flat)
+![HackRF](https://img.shields.io/badge/HackRF-RF%20Security-blueviolet?style=flat)
+![SDR](https://img.shields.io/badge/SDR-GNU%20Radio-blueviolet?style=flat)
+
+**Security Domains**
+
+![Threat Modelling](https://img.shields.io/badge/Threat%20Modelling-STRIDE-informational?style=flat)
+![OWASP](https://img.shields.io/badge/OWASP-Top%2010-informational?style=flat)
+![SIEM](https://img.shields.io/badge/SIEM-Security%20Monitoring-informational?style=flat)
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-Evidence%20Analysis-informational?style=flat)
+![Cryptography](https://img.shields.io/badge/Cryptography-AES%20%7C%20PKI-informational?style=flat)
 
 ## Certifications
 
