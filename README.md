@@ -5,9 +5,13 @@ MSc Cyber Security graduate from the University of Southampton with hands-on exp
 ## About Me
 
 🎓 MSc Cyber Security — University of Southampton (2025–2026)
+
 ☁️ Incoming DC Security Specialist Intern — Amazon AWS (Sep 2026)
+
 🕵️ Former Intern — Gurugram Police Cyber Cell
+
 🌍 Based in Southampton, UK — Open to Security Engineer roles
+
 📫 dhillonamarjeetkaur207@gmail.com
 
 ## Security Projects
